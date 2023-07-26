@@ -9,8 +9,12 @@ The obvious singular question for analysis is: How do different variables affect
 
 The dataset has 14 variables distributed across type of disease, neighborhood of patient, age, gender, alcohol addict, sms received and the variable which provides the information on whether a patient shows up or not.
 
-Dependencies
-Python programming language (version 3.6 or higher)
+Dependencies 
+
+Python programming language (version 3.11.1)
+
 Pandas
+
 Matplotlib
+
 Seaborn
